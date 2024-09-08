@@ -63,14 +63,14 @@ For a complete reference to all API methods, endpoints, and integration guides, 
 
 - **API Access**: Sign up at [api-card.com](https://api-card.com) and obtain your API key.
 - **Developer Portal**: Review detailed API documentation and integration examples at [api-card.com/developer](https://api-card.com/developer).
-- **Support**: For any questions, reach out to [support@api-card.com](mailto:support@api-card.com).
+- **Support**: For any questions, reach out to [hello@api-card.com](mailto:hello@api-card.com).
 
 ---
 
 ## 📞 Contact & Support
 
 For any inquiries, support, or issues, please contact our support team:  
-📧 **[support@api-card.com](mailto:support@api-card.com)**
+📧 **[hello@api-card.com](mailto:hello@api-card.com)**
 
 Visit our website for more details:  
 🌐 **[api-card.com](https://api-card.com)**
